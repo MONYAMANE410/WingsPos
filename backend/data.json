@@ -1,0 +1,49 @@
+{
+  "customers": [
+    {
+      "id": 1757181193404,
+      "name": "Teboho",
+      "email": "teboho@gmail.com"
+    },
+    {
+      "id": 1757181846539,
+      "name": "Pule",
+      "email": "pule@gmail.com",
+      "address": "hapita",
+      "notes": "",
+      "contacts": [
+        {
+          "type": "56678765",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1757143455801,
+      "name": "fgh",
+      "price": 5,
+      "quantity": 7
+    },
+    {
+      "id": 1757149801076,
+      "name": "rfghgv",
+      "price": 3,
+      "quantity": 44
+    },
+    {
+      "id": 1757149849886,
+      "name": "Apple",
+      "price": 5,
+      "quantity": 39
+    },
+    {
+      "id": 1757154565796,
+      "name": "books",
+      "price": 12,
+      "quantity": 5
+    }
+  ],
+  "sales": []
+}
