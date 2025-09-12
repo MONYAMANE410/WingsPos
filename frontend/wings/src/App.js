@@ -1,6 +1,6 @@
 // App.js
 import React, { useState, useEffect } from "react";
-import { Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 import Dashboard from "./components/Dashboard";
 import ProductManagement from "./components/ProductManagement";
